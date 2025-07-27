@@ -39,7 +39,7 @@ Create a .env file in the root with the following:
 GROQ_API_KEY=your_groq_api_key_here
 ```
 
-🚀 How to Use
+##🚀 How to Use
 Add your .env file with your Groq API key.
 
 Run the tool with:
@@ -50,6 +50,7 @@ python pipeline.py
 Upload your meeting audio file in the data directory.
 
 Receive a summary and list of action items extracted from the meeting in the respective output directories.
+
 
 ##📝 License
 MIT License
