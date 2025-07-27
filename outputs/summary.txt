@@ -1,0 +1,14 @@
+Here is a concise summary of the meeting transcript:
+
+**Summary:**
+
+* The team discussed the status of ongoing projects during their weekly sync.
+* Key points:
+	+ Jemi is almost done with the login page refactor and will deploy it by tomorrow.
+	+ Taylor is 80% done with the high-fidelity dashboard mockups, but needs help with color contrast for accessibility.
+	+ The team aims for double A compliance on the dashboard.
+* Action items:
+	+ Jemi: Deploy the login page refactor by tomorrow.
+	+ Taylor: Share the dashboard mockups by Friday.
+	+ [Meeting leader]: Follow up with the back-end team regarding API response time and with marketing regarding copy for onboarding tool tips.
+* Next meeting: Scheduled for Wednesday.

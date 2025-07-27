@@ -1,0 +1,7 @@
+groq
+python-dotenv
+pydub
+requests
+spacy
+python-magic
+regex

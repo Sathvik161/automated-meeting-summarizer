@@ -1,0 +1,17 @@
+Here are the action items, decisions, and tasks extracted from the meeting transcript:
+
+**Action Items:**
+
+* Jemi:
+	+ Deploy the login page by tomorrow
+	+ Review Taylor's hex codes for color contrast accessibility
+* Taylor:
+	+ Share high-fidelity dashboard mockups by Friday
+* [Meeting Leader]:
+	+ Follow up with back end team regarding API response time
+	+ Follow up with marketing team regarding copy for onboarding tool tips
+
+**Decisions:**
+
+* Aim for double A compliance for accessibility
+* Finalize dashboard mockups by Friday
