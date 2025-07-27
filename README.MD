@@ -51,6 +51,6 @@ Upload your meeting audio file in the data directory.
 
 Receive a summary and list of action items extracted from the meeting in the respective output directories.
 
-###📝 License
+##📝 License
 MIT License
 
