@@ -31,6 +31,7 @@ Install the dependencies with:
 ```bash
 pip install -r requirements.txt
 ```
+---
 
 ##🔐 .env Setup
 Create a .env file in the root with the following:
@@ -38,6 +39,7 @@ Create a .env file in the root with the following:
 ```bash
 GROQ_API_KEY=your_groq_api_key_here
 ```
+---
 
 ##🚀 How to Use
 Add your .env file with your Groq API key.
@@ -50,8 +52,8 @@ python pipeline.py
 Upload your meeting audio file in the data directory.
 
 Receive a summary and list of action items extracted from the meeting in the respective output directories.
-
+---
 
 ##📝 License
 MIT License
-
+---
